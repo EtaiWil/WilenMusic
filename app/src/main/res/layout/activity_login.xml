@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00a8e6"
+    android:padding="20dp"
+    tools:context="com.example.tamir.sean_getpark.Login">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Login now!" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+
+        android:hint="username"
+        style="@style/editBox"
+        android:inputType="textPersonName"
+        />
+
+
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        style="@style/editBox"
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btn_enter"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="enter" />
+
+    <TextView
+        android:id="@+id/forgot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0000ff"
+        android:layout_marginTop="10dp"
+        android:text="Forgot username or password?" />
+</LinearLayout>
