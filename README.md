@@ -5,6 +5,14 @@ The app allows the user to enjoy a wide variety of music styles.
 The app Allows ranking of the different artists and as a result of the rating offers the user additional songs by the artist he liked
 additionally,the user can also see the artists he liked as well as the amount of songs he liked from each artist
 
+
+
+
+https://github.com/EtaiWil/WilenMusic/assets/117933094/c40ca43a-074d-4af8-ad0f-beb6a53d74a4
+
+
+
+
 ## Setup
 1. Clone this repository  
 ```
