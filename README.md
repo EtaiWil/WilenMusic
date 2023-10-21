@@ -8,7 +8,11 @@ additionally,the user can also see the artists he liked as well as the amount of
 
 
 
-https://github.com/EtaiWil/WilenMusic/assets/117933094/c40ca43a-074d-4af8-ad0f-beb6a53d74a4
+
+
+https://github.com/EtaiWil/WilenMusic/assets/117933094/bd891868-40c6-41d6-ab7c-4d5c3da270ad
+
+
 
 
 
