@@ -1,12 +1,9 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
-import android.database.Cursor;
-import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 import android.widget.Button;
 import android.content.Intent;
 

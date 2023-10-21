@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="#00a8e6"
     android:padding="20dp"
-    tools:context="com.example.tamir.sean_getpark.Login">
+    tools:context="com.example.Etai.WilenMusic.Login">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

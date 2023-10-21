@@ -1,10 +1,8 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
 import android.content.Context;
 
-/**
- * Created by Tamir on 21/05/2018.
- */
+
 
 public class GlobalHelper {
     public static DBAdapter MYDB;

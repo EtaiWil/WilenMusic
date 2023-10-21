@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 
 android {
-    namespace 'com.example.tamir.sean_getpark'
+    namespace 'com.example.Etai.WilenMusic'
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.tamir.sean_getpark"
+        applicationId "com.example.Etai.WilenMusic"
         minSdkVersion 17
         targetSdkVersion 26
         versionCode 1

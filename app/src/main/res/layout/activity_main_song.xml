@@ -7,7 +7,7 @@
     android:orientation="horizontal"
     android:padding="15dp"
     android:gravity="center_horizontal"
-    tools:context="com.example.tamir.sean_getpark.MainSong">
+    tools:context="com.example.Etai.WilenMusic.MainSong">
 
 
     <TableLayout

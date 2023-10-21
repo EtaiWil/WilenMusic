@@ -1,4 +1,4 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -8,9 +8,6 @@ import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
 
-/**
- * Created by Tamir on 17/06/2018.
- */
 
 public class Favadapter extends CursorAdapter {
 

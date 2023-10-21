@@ -1,11 +1,9 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
 import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
-import android.widget.SimpleAdapter;
-import android.widget.SimpleCursorAdapter;
 
 public class ListFavorite extends AppCompatActivity {
 ListView list_fav;

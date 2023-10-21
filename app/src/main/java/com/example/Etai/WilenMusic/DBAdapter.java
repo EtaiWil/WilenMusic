@@ -1,4 +1,4 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
 
 import android.content.ContentValues;
@@ -6,7 +6,6 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
-import android.widget.Toast;
 
 public class DBAdapter {
     static Context c;
@@ -229,21 +228,6 @@ public class DBAdapter {
 
 
     }
-
-
-    public int countDislikes(String username)
-
-    {
-        Cursor c;
-        String sql="select " + DBHelper.PREF_ID +" from " + DBHelper.TABLE_SONGSPREF
-                + " where " + DBHelper.PREF_USERNAME + "='" + username + "'";
-
-        c=db.rawQuery(sql,null);
-        if(c!=null)
-            c.moveToFirst();
-        return c.getCount();
-    }
-
 
     public  void updateFav(int song_num, String username, int rank)
     {

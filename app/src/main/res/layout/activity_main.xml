@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="10dp"
     android:background="@drawable/bg"
-    tools:context="com.example.tamir.sean_getpark.MainActivity">
+    tools:context="com.example.Etai.WilenMusic.MainActivity">
 
     <TextView
         android:id="@+id/textView"

@@ -1,7 +1,6 @@
-package com.example.tamir.sean_getpark;
+package com.example.Etai.WilenMusic;
 
 import android.content.Intent;
-import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,7 +12,7 @@ import android.widget.Toast;
 public class Register extends AppCompatActivity implements View.OnClickListener {
 
     private Button btn_reg;
-    private EditText pass,username,email,phone,carnum;
+    private EditText pass,username,email;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
